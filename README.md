@@ -3,16 +3,18 @@ Implementation of Masked-AutoEncoder architecture on Pytorch
 
 
 <p float="center">
-  <img src="MAE.png" width="540"/>
+  <img src="MAE.png" width="720"/>
 </p>
 
 ### Requirements
 The experiments were performed using Python 3.8.5 with the following Python packages:
-- [numpy](http://www.numpy.org/) == 1.18.5
-- [torch](https://pytorch.org/) == 1.5.1
-- [torchvision](https://pypi.org/project/torchvision/) = 0.6.1
-
-
+- [numpy](http://www.numpy.org/)
+- [torch](https://pytorch.org/)
+- [torchvision](https://pypi.org/project/torchvision/)
+- [imageio](https://pypi.org/project/imageio/)
+- [timm](https://pypi.org/project/timm/)
+- [PIL](https://pypi.org/project/Pillow/)
+- [OpenCV](https://pypi.org/project/opencv-python/)
 
 ### Usage
 To play with my implementation, you can simply put the following command into your terminal after adjusting the necessary parameters:
