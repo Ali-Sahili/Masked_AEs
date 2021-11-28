@@ -3,7 +3,7 @@ Implementation of Masked-AutoEncoder architecture on Pytorch
 
 
 <p float="center">
-  <img src="MAE.png" width="370"/>
+  <img src="MAE.png" width="540"/>
 </p>
 
 ### Requirements
